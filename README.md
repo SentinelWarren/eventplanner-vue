@@ -1,4 +1,4 @@
-# vue-test-proj
+## Event Planner in Vue.js
 
 ## Project setup
 ```
