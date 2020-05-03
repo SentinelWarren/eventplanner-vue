@@ -1,0 +1,464 @@
+{
+  "events": [
+    {
+      "id": 5928101,
+      "user": {
+        "id": "def456",
+        "name": "Black Water"
+      },
+      "category": "animal welfare",
+      "organizer": {
+        "id": "def456",
+        "name": "Black Water"
+      },
+      "title": "Cat Cabaret",
+      "description": "Yay felines!",
+      "location": "Meow Town",
+      "date": "2020-05-03T21:54:00.000Z",
+      "time": "2:00",
+      "attendees": [
+        "Sentinels",
+        "Black Water"
+      ]
+    },
+    {
+      "id": 8419988,
+      "user": {
+        "id": "abc123",
+        "name": "Sentinel"
+      },
+      "category": "animal welfare",
+      "organizer": {
+        "name": "Sentinel"
+      },
+      "title": "Kitty Cluster",
+      "description": "Yay cats!",
+      "location": "Catlandia",
+      "date": "2020-05-31T22:09:00.000Z",
+      "time": "7:00",
+      "attendees": [
+        "Sentinels",
+        "Black Water",
+        "Senti",
+        "Blue Water"
+      ]
+    },
+    {
+      "id": 4582797,
+      "user": {
+        "id": "def456",
+        "name": "Blue Water"
+      },
+      "category": "animal welfare",
+      "organizer": {
+        "id": "def456",
+        "name": "Black Water"
+      },
+      "title": "Puppy Parade",
+      "description": "Yay pups!",
+      "location": "Puptown ",
+      "date": "2020-06-02T23:27:00.000Z",
+      "time": "1:00",
+      "attendees": []
+    },
+    {
+      "id": 921083,
+      "user": {
+        "id": "abc123",
+        "name": "Sentinel"
+      },
+      "category": "animal welfare",
+      "organizer": {
+        "id": "abc123",
+        "name": "Sentinel"
+      },
+      "title": "Rescue wildlife",
+      "description": "Rescue injured wild animals",
+      "location": "Game reserve",
+      "date": "2020-05-13T06:24:00.000Z",
+      "time": "9:00",
+      "attendees": []
+    },
+    {
+      "id": 4823751,
+      "user": {
+        "id": "abc123",
+        "name": "Sentinel"
+      },
+      "category": "food",
+      "organizer": {
+        "id": "abc123",
+        "name": "Sentinel"
+      },
+      "title": "Lets cook",
+      "description": "gather and cook together",
+      "location": "kitchen",
+      "date": "2020-07-08T06:40:00.000Z",
+      "time": "15:00",
+      "attendees": []
+    },
+    {
+      "id": 450513,
+      "user": {
+        "id": "abc123",
+        "name": "Sentinel"
+      },
+      "category": "sustainability",
+      "organizer": {
+        "id": "abc123",
+        "name": "Sentinel"
+      },
+      "title": "qfqf",
+      "description": "fqf",
+      "location": "qfwqf",
+      "date": "2020-04-03T13:13:00.000Z",
+      "time": "17:00",
+      "attendees": []
+    },
+    {
+      "id": 5928101,
+      "user": {
+        "id": "def456",
+        "name": "Black Water"
+      },
+      "category": "animal welfare",
+      "organizer": {
+        "id": "def456",
+        "name": "Black Water"
+      },
+      "title": "Cat Cabaret",
+      "description": "Yay felines!",
+      "location": "Meow Town",
+      "date": "2020-05-03T21:54:00.000Z",
+      "time": "2:00",
+      "attendees": [
+        "Sentinels",
+        "Black Water"
+      ]
+    },
+    {
+      "id": 8419988,
+      "user": {
+        "id": "abc123",
+        "name": "Sentinel"
+      },
+      "category": "animal welfare",
+      "organizer": "Sentinel",
+      "title": "Kitty Cluster",
+      "description": "Yay cats!",
+      "location": "Catlandia",
+      "date": "2020-05-31T22:09:00.000Z",
+      "time": "7:00",
+      "attendees": [
+        "Sentinels",
+        "Black Water",
+        "Senti",
+        "Blue Water"
+      ]
+    },
+    {
+      "id": 4582797,
+      "user": {
+        "id": "def456",
+        "name": "Blue Water"
+      },
+      "category": "animal welfare",
+      "organizer": {
+        "id": "def456",
+        "name": "Adam"
+      },
+      "title": "Puppy Parade",
+      "description": "Yay pups!",
+      "location": "Puptown ",
+      "date": "2020-06-02T23:27:00.000Z",
+      "time": "1:00",
+      "attendees": []
+    },
+    {
+      "id": 5928101,
+      "user": {
+        "id": "def456",
+        "name": "Black Water"
+      },
+      "category": "animal welfare",
+      "organizer": {
+        "id": "def456",
+        "name": "Black Water"
+      },
+      "title": "Cat Cabaret",
+      "description": "Yay felines!",
+      "location": "Meow Town",
+      "date": "2020-05-03T21:54:00.000Z",
+      "time": "2:00",
+      "attendees": [
+        "Sentinels",
+        "Black Water"
+      ]
+    },
+    {
+      "id": 8419988,
+      "user": {
+        "id": "abc123",
+        "name": "Sentinel"
+      },
+      "category": "animal welfare",
+      "organizer": {
+        "id": "abc123",
+        "name": "Sentinel"
+      },
+      "title": "Kitty Cluster",
+      "description": "Yay cats!",
+      "location": "Catlandia",
+      "date": "2020-05-31T22:09:00.000Z",
+      "time": "7:00",
+      "attendees": [
+        "Sentinels",
+        "Black Water",
+        "Senti",
+        "Blue Water"
+      ]
+    },
+    {
+      "id": 4582797,
+      "user": {
+        "id": "def456",
+        "name": "Blue Water"
+      },
+      "category": "animal welfare",
+      "organizer": {
+        "id": "def456",
+        "name": "Black Water"
+      },
+      "title": "Puppy Parade",
+      "description": "Yay pups!",
+      "location": "Puptown ",
+      "date": "2020-06-02T23:27:00.000Z",
+      "time": "1:00",
+      "attendees": []
+    },
+    {
+      "id": 921083,
+      "user": {
+        "id": "abc123",
+        "name": "Sentinel"
+      },
+      "category": "animal welfare",
+      "organizer": {
+        "id": "abc123",
+        "name": "Sentinel"
+      },
+      "title": "Rescue wildlife",
+      "description": "Rescue injured wild animals",
+      "location": "Game reserve",
+      "date": "2020-05-13T06:24:00.000Z",
+      "time": "9:00",
+      "attendees": []
+    },
+    {
+      "id": 4823751,
+      "user": {
+        "id": "abc123",
+        "name": "Sentinel"
+      },
+      "category": "food",
+      "organizer": {
+        "id": "abc123",
+        "name": "Sentinel"
+      },
+      "title": "Lets cook",
+      "description": "gather and cook together",
+      "location": "kitchen",
+      "date": "2020-07-08T06:40:00.000Z",
+      "time": "15:00",
+      "attendees": []
+    },
+    {
+      "id": 450513,
+      "user": {
+        "id": "abc123",
+        "name": "Sentinel"
+      },
+      "category": "sustainability",
+      "organizer": {
+        "id": "abc123",
+        "name": "Sentinel"
+      },
+      "title": "qfqf",
+      "description": "fqf",
+      "location": "qfwqf",
+      "date": "2020-04-03T13:13:00.000Z",
+      "time": "17:00",
+      "attendees": []
+    },
+    {
+      "id": 5928101,
+      "user": {
+        "id": "def456",
+        "name": "Black Water"
+      },
+      "category": "animal welfare",
+      "organizer": {
+        "id": "def456",
+        "name": "Black Water"
+      },
+      "title": "Cat Cabaret",
+      "description": "Yay felines!",
+      "location": "Meow Town",
+      "date": "2020-05-03T21:54:00.000Z",
+      "time": "2:00",
+      "attendees": [
+        "Sentinels",
+        "Black Water"
+      ]
+    },
+    {
+      "id": 8419988,
+      "user": {
+        "id": "abc123",
+        "name": "Sentinel"
+      },
+      "category": "animal welfare",
+      "organizer": {
+        "id": "abc123",
+        "name": "Sentinel"
+      },
+      "title": "Kitty Cluster",
+      "description": "Yay cats!",
+      "location": "Catlandia",
+      "date": "2020-05-31T22:09:00.000Z",
+      "time": "7:00",
+      "attendees": [
+        "Sentinels",
+        "Black Water",
+        "Senti",
+        "Blue Water"
+      ]
+    },
+    {
+      "id": 4582797,
+      "user": {
+        "id": "def456",
+        "name": "Blue Water"
+      },
+      "category": "animal welfare",
+      "organizer": {
+        "id": "def456",
+        "name": "Adam"
+      },
+      "title": "Puppy Parade",
+      "description": "Yay pups!",
+      "location": "Puptown ",
+      "date": "2020-06-02T23:27:00.000Z",
+      "time": "1:00",
+      "attendees": []
+    },
+    {
+      "id": 5809190,
+      "user": {
+        "id": "abc123",
+        "name": "Sentinel"
+      },
+      "category": "",
+      "organizer": {
+        "id": "abc123",
+        "name": "Sentinel"
+      },
+      "title": "SUCCESS",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 1192476,
+      "user": {
+        "id": "abc123",
+        "name": "Sentinel"
+      },
+      "category": "nature",
+      "organizer": {
+        "id": "abc123",
+        "name": "Sentinel"
+      },
+      "title": "Planting Trees",
+      "description": "planting some trees",
+      "location": "Forest",
+      "date": "2020-05-07T16:50:00.000Z",
+      "time": "9:00",
+      "attendees": []
+    },
+    {
+      "id": 7948852,
+      "user": {
+        "id": "abc123",
+        "name": "Sentinel"
+      },
+      "category": "housing",
+      "organizer": {
+        "id": "abc123",
+        "name": "Sentinel"
+      },
+      "title": "Test",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 8283107,
+      "user": {
+        "id": "abc123",
+        "name": "Sentinel"
+      },
+      "category": "",
+      "organizer": {
+        "id": "abc123",
+        "name": "Sentinel"
+      },
+      "title": "",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 9097094,
+      "user": {
+        "id": "abc123",
+        "name": "Sentinel"
+      },
+      "category": "sustainability",
+      "organizer": {
+        "id": "abc123",
+        "name": "Sentinel"
+      },
+      "title": "Sustainable goals",
+      "description": "planning",
+      "location": "Meetup",
+      "date": "2020-05-14T13:18:00.000Z",
+      "time": "8:00",
+      "attendees": []
+    },
+    {
+      "id": 4963008,
+      "user": {
+        "id": "abc123",
+        "name": "Sentinel"
+      },
+      "category": "animal welfare",
+      "organizer": {
+        "id": "abc123",
+        "name": "Sentinel"
+      },
+      "title": "Puppy Party",
+      "description": "let puppies party",
+      "location": "Puppy house",
+      "date": "2020-05-01T13:26:00.000Z",
+      "time": "10:00",
+      "attendees": []
+    }
+  ]
+}
